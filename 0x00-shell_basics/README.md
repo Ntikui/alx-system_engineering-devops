@@ -1,3 +1,4 @@
-#!/bin/bashs
-pwd
+#!/bin/bash
+/root/alx-system_engineering-devops
+
 
