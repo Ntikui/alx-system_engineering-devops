@@ -1,2 +1,2 @@
-my first project
-my first project
+#!/bin/bash
+/root/alx-system_engineering-devops/0x00-shell_basics
